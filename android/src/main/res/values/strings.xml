@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RepositoryManagement</string>
+
+    <!-- FIX Unknown source file : warning: string 'catalyst_debugjs' has no default translation. -->
+    <string name="catalyst_debugjs">catalyst_debugjs</string>
+    <string name="catalyst_element_inspector">catalyst_element_inspector</string>
+    <string name="catalyst_jsload_error">catalyst_jsload_error</string>
+    <string name="catalyst_jsload_message">catalyst_jsload_message</string>
+    <string name="catalyst_jsload_title">catalyst_jsload_title</string>
+    <string name="catalyst_reloadjs">catalyst_reloadjs</string>
+    <string name="catalyst_settings">catalyst_settings</string>
+    <string name="catalyst_settings_title">catalyst_settings_title</string>
+</resources>

@@ -1,0 +1,23 @@
+{
+  "name": "react-native-repository-management",
+  "version": "0.0.1",
+  "description": "Repository Management is a store module for remote RESTful api processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RICH0423/react-native-repository-management.git"
+  },
+  "keywords": [
+    "react-native-repository-management",
+    "repository-management"
+  ],
+  "author": "Rich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RICH0423/react-native-repository-management/issues"
+  },
+  "homepage": "https://github.com/RICH0423/react-native-repository-management#readme"
+}
